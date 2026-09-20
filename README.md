@@ -63,9 +63,6 @@ The main connections are:
 
 The DHT22 and potentiometer are powered from 3.3V, while the HC-SR04 and relay module are powered from 5V. All components share a common ground with the ESP32.
 
-The circuit diagram below represents the final Wokwi implementation of the Smart Water Monitoring System.
-
-<!-- Insert the final Wokwi circuit diagram screenshot here -->
 
 ## 6. Working Principle
 
